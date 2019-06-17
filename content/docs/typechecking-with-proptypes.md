@@ -50,7 +50,7 @@ MyComponent.propTypes = {
   optionalString: PropTypes.string,
   optionalSymbol: PropTypes.symbol,
 
-  // Все, что может быть отренедерено:
+  // Все, что может быть отрендерено:
   // числа, строки, элементы или массивы
   // (или фрагменты) содержащие эти типы
   optionalNode: PropTypes.node,
